@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm GokulReddy1712</h1>
+<h1 align="center">Hi 👋, I'm GokulReddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmXy69YzLGpXQPHvzqK837u_fkSiFu5cg7Q&s">
 
